@@ -6,7 +6,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],
+        hearts: ['❤️', '💖', '💝', '💗', '💓','🦈', '🐯', '🏎️'],
         bears: ['🦈', '🐯', '🏎️']
     },
 
@@ -43,7 +43,7 @@ const CONFIG = {
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
         message: "Thank you for saying yes <33, because of that you'll get many kisses!",
-        emojis: "🎁💖🤗💝💋❤️💕🦈🦈🐯🐯🏎️🏎️"  // These will bounce around
+        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
